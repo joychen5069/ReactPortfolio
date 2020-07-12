@@ -1,19 +1,19 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
+    "name":"Joy Chen",
+    "description":"aspiring software development engineer. I use react and javascript to develop applications. This website serves as a testimony to my skillsets",
+    "image":"profile.png",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "joychen5069@gmail.com",
+    "phone": "919-448-4416",
+    "github":"https://github.com/joychen5069",
+    "project":"https://github.com/joychen5069/ReactPortfolio",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"706 Northampton Dr",
+      "city":"Cary",
+      "state":"North Carolina",
+      "zip": "27513"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -40,7 +40,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/joychen5069",
         "className":"fa fa-github"
       }
     ]
@@ -49,15 +49,15 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
+        "school":"University of North Carolina-Chapel Hill",
+        "degree":"Certificate in ",
+        "graduated":"August 2020",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"University of North Carolina-Chapel Hill",
+        "degree":"BA in Peace, War, and Defense",
+        "graduated":"May 2017",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
@@ -77,14 +77,10 @@
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"JavaScript",
+        "level":"80%"
       },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
+     {
         "name":"ReactJs",
         "level":"50%"
       },
@@ -93,50 +89,46 @@
         "level":"90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"HTML",
+        "level":"90%"
       },
       {
-        "name":"Swift",
+        "name":"NodeJS",
         "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Book Club Tracker",
+        "category":"Keep track of what your club is reading",
+        "image":"bookClubDemo.gif",
+        "url":"https://book-club-application.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Date Night",
+        "category":"Decide what you and your date are eating tonight",
+        "image":"datenightdemo.gif",
+        "url":"https://joychen5069.github.io/Date-Night/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Burger Eater",
+        "category":"A project that allows you to eat burgers",
+        "image":"burgerDemo.gif",
+        "url":"https://eat-the-burger-by-joy-chen.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Password Generator",
+        "category":"Create a random password for your security",
+        "image":"passwordGenerator.jpg",
+        "url":"https://joychen5069.github.io/RandomPasswordGenerator/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Weather Application",
+        "category":"Check the weather of any city you want",
+        "image":"Weather-Api.png",
+        "url":"https://joychen5069.github.io/WeatherForcast/"
       }
     ]
   }
