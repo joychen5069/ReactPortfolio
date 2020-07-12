@@ -40,7 +40,7 @@ class Header extends Component {
                   <h3>I'm a Raleigh-Durham based <span>{occupation}</span> {description}.</h3>
                   <hr />
                   <ul className="social">
-                     <a href={resume} className="button btn project-btn"><i className="fa fa-book"></i>Resume</a>
+                     <a href={resume} className="button btn resume-btn"><i className="fa fa-book"></i>Resume</a>
                      
                      <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
                   </ul>

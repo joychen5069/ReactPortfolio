@@ -52,8 +52,10 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;
+   padding-bottom: 20px;
+   padding-top: 20px;
    text-align: center;
+   background-color: #272626;
 }
 
 header .banner-text { width: 100%; }
@@ -1009,3 +1011,11 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+.resume-btn{
+   background-color: #1abc9c !important;
+   margin-right: 3px !important;
+}
+.github-btn{
+   background-color: #34495e !important;
+}
