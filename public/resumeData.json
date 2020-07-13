@@ -100,20 +100,26 @@
       {
         "title":"Book Club Tracker",
         "category":"Keep track of what your club is reading",
-        "image":"bookClubDemo.gif",
+        "image":"BookClub.png",
         "url":"https://book-club-application.herokuapp.com/"
       },
       {
         "title":"Date Night",
         "category":"Decide what you and your date are eating tonight",
-        "image":"datenightdemo.gif",
+        "image":"DateNight.png",
         "url":"https://joychen5069.github.io/Date-Night/"
       },
       {
-        "title":"Burger Eater",
-        "category":"A project that allows you to eat burgers",
-        "image":"burgerDemo.gif",
-        "url":"https://eat-the-burger-by-joy-chen.herokuapp.com/"
+        "title":"Note Taker",
+        "category":"An application to keep track of all your notes",
+        "image":"NoteTaker.png",
+        "url":"https://joynotetaker.herokuapp.com/"
+      },
+      {
+        "title":"Workout Tracker",
+        "category":"Never forget your gains again",
+        "image":"WorkoutTracker.png",
+        "url":"https://workout-tracker-by-joy.herokuapp.com/"
       },
       {
         "title":"Password Generator",
