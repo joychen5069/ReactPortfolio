@@ -13,6 +13,8 @@ class Resume extends Component {
       var work = this.props.data.work.map(function(work){
         return <div key={work.company}><h3>{work.company}</h3>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
+      <a className="projectLinks" href={work.github}>GitHub: {work.github}</a><br></br>
+      <a className="projectLinks" href={work.url}>Demo: {work.url}</a>
             <p>{work.description}</p>
         </div>
       })
@@ -43,7 +45,7 @@ class Resume extends Component {
       <div className="row work">
 
          <div className="three columns header-col">
-            <h1><span>Work</span></h1>
+            <h1><span>Projects</span></h1>
          </div>
 
          <div className="nine columns main-col">
