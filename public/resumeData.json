@@ -3,12 +3,11 @@
     "name":"Joy Chen",
     "description":"aspiring software development engineer. I use react and javascript to develop applications. This website serves as a testimony to my skillsets",
     "image":"profile.png",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I am an RTP based software and web developer that works primarily in ReactJS and JavaScript.",
+    "contactmessage":"If you're interested in working with me, send me a message down below and I'll get back to you as soon as possible. I look forward to hearing from you!",
     "email": "joychen5069@gmail.com",
     "phone": "919-448-4416",
     "github":"https://github.com/joychen5069",
-    "resume":"https://github.com/joychen5069/ReactPortfolio",
     "address":{
       "street":"706 Northampton Dr",
       "city":"Cary",
@@ -16,27 +15,17 @@
       "zip": "27513"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"JoyChenResume.pdf",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/JoyChen1295/",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/joy-chen-5069/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -46,33 +35,37 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Just a quick screenshot of my abilities!",
     "education":[
       {
         "school":"University of North Carolina-Chapel Hill",
-        "degree":"Certificate in ",
+        "degree":"Certificate - Full Stack Web FLex Development",
         "graduated":"August 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"An intensive Full Stack program that taught technical programming skills in computer science including front-end and back-end development, server-side dvelopment, database interaction, and live deployments"
       },
       {
         "school":"University of North Carolina-Chapel Hill",
         "degree":"BA in Peace, War, and Defense",
         "graduated":"May 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"A four year degree in the studies of national and international security and relations with a strong focus in modern warfare."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Book Club",
+        "title":"Full-Stack Developer",
+        "years":"May 2020 - June 2020",
+        "description":"This application allows you to find a book club to join depending on your reading interests. The project is powered by JavaScript, AJAX API calls, NodeJS, and SQL. Feel free to checkout the demo",
+        "url":"https://book-club-application.herokuapp.com/",
+        "github": "https://github.com/joychen5069/BookClub"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Date Night",
+        "title":"Full-Stack Developer",
+        "years":"March 2020 - April 2020",
+        "description":"This project allows the user to choose a cuisine and alcohol type to find a food pairing. The website will give you a completed picture of what the meal and drink should look like, the ingredient list, and the instructions on how to make the meal. The Date Night application was developed using HTML5, CSS, Javascript, JQuery, Materialize. ",
+        "url":"https://joychen5069.github.io/Date-Night/",
+        "github": "https://github.com/joychen5069/Date-Night"
       }
     ],
     "skills":[
@@ -95,6 +88,10 @@
       {
         "name":"NodeJS",
         "level":"50%"
+      },
+      {
+        "name":"Mongo/SQL",
+        "level":"70%"
       }
     ]
   },
