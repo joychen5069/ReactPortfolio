@@ -55,7 +55,7 @@ header .banner {
    padding-bottom: 20px;
    padding-top: 20px;
    text-align: center;
-   background-color: #272626;
+   background-color: #002136;
 }
 
 header .banner-text { width: 100%; }
@@ -142,7 +142,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color:#002136; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -189,7 +189,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #002136;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -205,7 +205,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #adadad;
 }
 #about .profile-pic {
    position: relative;
@@ -313,7 +313,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: #00063d;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -327,7 +327,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #006188;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
@@ -426,7 +426,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #313131;
+   background: #002944;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -803,10 +803,10 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #002136;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #a9bcf0;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -859,7 +859,7 @@ call-to-action .button {
 #contact select {
    padding: 18px 20px;
 	color: #eee;
-	background: #373233;
+	background: #5eccff;
 	margin-bottom: 42px;
 	border: 0;
 	outline: none;
