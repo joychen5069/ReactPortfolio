@@ -283,6 +283,13 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
+#resume .projectLinks {
+   font: 12px/18px 'opensans-regular', sans-serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
@@ -419,7 +426,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #313131;
    padding-top: 90px;
    padding-bottom: 60px;
 }
