@@ -1,29 +1,21 @@
-# React Nice Resume     
+# MyPortfolio
+Welcome to my portfolio!
 
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+Scroll through the page or click on the section you want to jump to. I have added the link to my LinkedIn, Facebook, and GitHub. Click on the icons in the sidebar to access those pages.
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
+# The Works
+This page is powered by HTML, CSS, and jQuery. If you notice any bugs or anything that can be improved, please let me know! I will be continuously improving this portfolio for my future employers!
 
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
+Enjoy!
 
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
+## Credits
+Template:
+		React Resume (https://github.com/tbakerx/react-resume-template)
 
-## Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
+	Icons:
+		Font Awesome (fontawesome.io)
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
-
-## Run Project
-### 1. Clone the project
-
-### 2. Run the project
-```shell
-npm i
-npm start
-```
-
-### 3. BUild
-```shell
-npm run build
-```
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
