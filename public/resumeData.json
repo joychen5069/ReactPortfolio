@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Joy Chen",
-    "description":"aspiring software development engineer. I use react and javascript to develop applications. This website serves as a testimony to my skillsets",
+    "description":"software developer. I'm a current UNC Coding Bootcamp student who will finish in August 2020. I use ReactJS and JavaScript to develop applications. This website serves as a testimony to my skills",
     "image":"profile.png",
-    "bio":"I am an RTP based software and web developer that works primarily in ReactJS and JavaScript.",
+    "bio":"I graduated from UNC-Chapel Hill in May 2017 and immediately joined the Durham Police Department while I figured out what I wanted to do. After almost three years on the force, I decided to I wanted to be a software developer. Please feel free to leave a message or two on the Contact sheet below and I look forward to hearing from you!",
     "contactmessage":"If you're interested in working with me, send me a message down below and I'll get back to you as soon as possible. I look forward to hearing from you!",
     "email": "joychen5069@gmail.com",
     "phone": "919-448-4416",
