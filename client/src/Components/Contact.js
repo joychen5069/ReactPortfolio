@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import nodemailer from "nodemailer"
+// const nodemailer = require('nodemailer')
 
 class Contact extends Component {
    state = {
