@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name":"Joy Chen",
+    "description":"software developer. I'm a current UNC Coding Bootcamp student who will finish in August 2020. I use ReactJS and JavaScript to develop applications. This website serves as a testimony to my skills",
+    "image":"profile.png",
+    "bio":"I graduated from UNC-Chapel Hill in May 2017 and immediately joined the Durham Police Department while I figured out what I wanted to do. After almost three years on the force, I decided to I wanted to be a software developer. Please feel free to email me at joychen5069@gmail.com. I look forward to hearing from you!",
+    "contactmessage":"If you're interested in working with me, send me a message down below and I'll get back to you as soon as possible. I look forward to hearing from you!",
+    "email": "joychen5069@gmail.com",
+    "phone": "919-448-4416",
+    "github":"https://github.com/joychen5069",
+    "address":{
+      "street":"706 Northampton Dr",
+      "city":"Cary",
+      "state":"North Carolina",
+      "zip": "27513"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"JoyChenResume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/JoyChen1295/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joy-chen-5069/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/joychen5069",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Just a quick screenshot of my abilities!",
+    "education":[
+      {
+        "school":"University of North Carolina-Chapel Hill",
+        "degree":"Certificate - Full Stack Web FLex Development",
+        "graduated":"August 2020",
+        "description":"An intensive Full Stack program that taught technical programming skills in computer science including front-end and back-end development, server-side dvelopment, database interaction, and live deployments"
+      },
+      {
+        "school":"University of North Carolina-Chapel Hill",
+        "degree":"BA in Peace, War, and Defense",
+        "graduated":"May 2017",
+        "description":"A four year degree in the studies of national and international security and relations with a strong focus in modern warfare."
+      }
+    ],
+    "work":[
+      {
+        "company":"Book Club",
+        "title":"Full-Stack Developer",
+        "years":"May 2020 - June 2020",
+        "description":"This application allows you to find a book club to join depending on your reading interests. The project is powered by JavaScript, AJAX API calls, NodeJS, and SQL. Feel free to checkout the demo",
+        "url":"https://book-club-application.herokuapp.com/",
+        "github": "https://github.com/joychen5069/BookClub"
+      },
+      {
+        "company":"Date Night",
+        "title":"Full-Stack Developer",
+        "years":"March 2020 - April 2020",
+        "description":"This project allows the user to choose a cuisine and alcohol type to find a food pairing. The website will give you a completed picture of what the meal and drink should look like, the ingredient list, and the instructions on how to make the meal. The Date Night application was developed using HTML5, CSS, Javascript, JQuery, Materialize. ",
+        "url":"https://joychen5069.github.io/Date-Night/",
+        "github": "https://github.com/joychen5069/Date-Night"
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+     {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"50%"
+      },
+      {
+        "name":"Mongo/SQL",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Book Club Tracker",
+        "category":"Keep track of what your club is reading",
+        "image":"BookClub.png",
+        "url":"https://book-club-application.herokuapp.com/"
+      },
+      {
+        "title":"Date Night",
+        "category":"Decide what you and your date are eating tonight",
+        "image":"DateNight.png",
+        "url":"https://joychen5069.github.io/Date-Night/"
+      },
+      {
+        "title":"Note Taker",
+        "category":"An application to keep track of all your notes",
+        "image":"NoteTaker.png",
+        "url":"https://joynotetaker.herokuapp.com/"
+      },
+      {
+        "title":"Workout Tracker",
+        "category":"Never forget your gains again",
+        "image":"WorkoutTracker.png",
+        "url":"https://workout-tracker-by-joy.herokuapp.com/"
+      },
+      {
+        "title":"Password Generator",
+        "category":"Create a random password for your security",
+        "image":"passwordGenerator.jpg",
+        "url":"https://joychen5069.github.io/RandomPasswordGenerator/"
+      },
+      {
+        "title":"Weather Application",
+        "category":"Check the weather of any city you want",
+        "image":"Weather-Api.png",
+        "url":"https://joychen5069.github.io/WeatherForcast/"
+      }
+    ]
+  }
+}
