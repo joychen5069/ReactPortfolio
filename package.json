@@ -2,7 +2,7 @@
   "name": "reactportfolio",
   "version": "1.0.0",
   "description": "Welcome to my portfolio!",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
