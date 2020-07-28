@@ -470,7 +470,8 @@ input[type="button"] {
    letter-spacing: 0;
    color: #fff;
 	padding: 12px 20px;
-	margin-bottom: 18px;
+   margin-bottom: 18px;
+   margin-left: 5px;
    border: none;
    cursor: pointer;
    height: auto;

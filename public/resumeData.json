@@ -7,6 +7,7 @@
     "contactmessage":"If you're interested in working with me, send me a message down below and I'll get back to you as soon as possible. I look forward to hearing from you!",
     "email": "joychen5069@gmail.com",
     "phone": "919-448-4416",
+    "LinkedIn":"https://www.linkedin.com/in/joy-chen-5069/", 
     "github":"https://github.com/joychen5069",
     "address":{
       "street":"706 Northampton Dr",
@@ -14,14 +15,9 @@
       "state":"North Carolina",
       "zip": "27513"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://joy-chen-portfolio.herokuapp.com/",
     "resumedownload":"JoyChenResume.pdf",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://www.facebook.com/JoyChen1295/",
-        "className":"fa fa-facebook"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/joy-chen-5069/",
@@ -102,40 +98,46 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Book Club Tracker",
-        "category":"Keep track of what your club is reading",
-        "image":"BookClub.png",
-        "url":"https://book-club-application.herokuapp.com/"
+        "title":"COVID Informational and Resource Application",
+        "category":"This application allows you to check your symptoms to determine your triage level during this pandemic. You can also see the current number of active cases and deaths per state and county.",
+        "image":"COVIDdemo.jpg",
+        "url":"https://covid19-tracker-applicaiton.herokuapp.com/",
+        "github":"https://github.com/traviscult/project-3"
       },
       {
-        "title":"Date Night",
-        "category":"Decide what you and your date are eating tonight",
-        "image":"DateNight.png",
-        "url":"https://joychen5069.github.io/Date-Night/"
-      },
+        "title":"Online Offline Budget Tracker",
+        "category":"This application will assist you in keeping track of your expenses when you have internet and when you don't! The offline feature is extremely helpful for when users are in areas where the internet is sparse or super expensive and just not worth connecting to.",
+        "image":"budget.png",
+        "url":"https://online-offline-budget.herokuapp.com/",
+        "github":"https://github.com/joychen5069/OnlineOfflineBudgetTracker"
+      },      
       {
-        "title":"Note Taker",
-        "category":"An application to keep track of all your notes",
-        "image":"NoteTaker.png",
-        "url":"https://joynotetaker.herokuapp.com/"
+        "title":"Weather Application",
+        "category":"I have created a weather application that gives you the information you need to step out the door and go on an adventure! he application will give you the current temperature, humidity, wind speed, and the UV index with a color code. It'll even give you an icon for what the majority of the day should be like!",
+        "image":"Weather-Api.png",
+        "url":"https://joychen5069.github.io/WeatherForcast/",
+        "github":"https://github.com/joychen5069/WeatherForcast"
       },
       {
         "title":"Workout Tracker",
-        "category":"Never forget your gains again",
+        "category":"This application will assist you in keeping track of your workouts! If you love cardio and/or resistance training, this is the application for you. It will assist you in tracking the weight, the reps, the sets, the duration, and the milage you put in.",
         "image":"WorkoutTracker.png",
-        "url":"https://workout-tracker-by-joy.herokuapp.com/"
-      },
+        "url":"https://workout-tracker-by-joy.herokuapp.com/",
+        "github":"https://github.com/joychen5069/WorkoutTracker"
+      },      
       {
         "title":"Password Generator",
-        "category":"Create a random password for your security",
+        "category":"No one wants a super predictable and easy-to-guess password. Everyone has their own reasons to keep their belongings, thoughts, work, and etc. safe! Like all other passwords, this one has requirements. This application allows the user to choose parameters in which the program will create a password.",
         "image":"passwordGenerator.jpg",
-        "url":"https://joychen5069.github.io/RandomPasswordGenerator/"
+        "url":"https://joychen5069.github.io/RandomPasswordGenerator/",
+        "github":"https://github.com/joychen5069/RandomPasswordGenerator"
       },
       {
-        "title":"Weather Application",
-        "category":"Check the weather of any city you want",
-        "image":"Weather-Api.png",
-        "url":"https://joychen5069.github.io/WeatherForcast/"
+        "title":"Note Taker",
+        "category":"Everyone takes notes. Whether they scrible it down on a piece of paper, or quickly type on their phone, or even open a notepad document on their computer. Here is how to store all of those notes in one place!",
+        "image":"NoteTaker.png",
+        "url":"https://joynotetaker.herokuapp.com/",
+        "github":"https://github.com/joychen5069/NoteTaker"
       }
     ]
   }

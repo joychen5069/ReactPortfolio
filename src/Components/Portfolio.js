@@ -10,14 +10,15 @@ class Portfolio extends Component {
            <div className="item-wrap">
             <a href={projects.url} title={projects.title}>
                <img alt={projects.title} src={projectImage} />
-               <div className="overlay">
-                  <div className="portfolio-item-meta">
-                 <h5>{projects.title}</h5>
-                     <p>{projects.category}</p>
-                  </div>
-                </div>
+               
               <div className="link-icon"><i className="fa fa-link"></i></div>
             </a>
+            <h5 className="projects">
+              {projects.title}
+            </h5>
+            <p className="projects">{projects.category}</p>
+            <a className="projects" href={projects.url}>Live Demo</a>
+            <a className="projects" href={projects.github}>Visit the Github page here</a>
           </div>
         </div>
       })
@@ -32,7 +33,7 @@ class Portfolio extends Component {
 
             <h1>Check Out More of My Works.</h1>
 
-            <div id="portfolio-wrapper" className="bgrid-thirds s-bgrid-thirds cf">
+            <div id="portfolio-wrapper" className="bgrid-halves s-bgrid-thirds cf">
                 {projects}
             </div>
           </div>
