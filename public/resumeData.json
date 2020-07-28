@@ -100,7 +100,7 @@
       {
         "title":"COVID Informational and Resource Application",
         "category":"This application allows you to check your symptoms to determine your triage level during this pandemic. You can also see the current number of active cases and deaths per state and county.",
-        "image":"COVIDdemo.jpg",
+        "image":"covid.png",
         "url":"https://covid19-tracker-applicaiton.herokuapp.com/",
         "github":"https://github.com/traviscult/project-3"
       },
