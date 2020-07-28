@@ -7,6 +7,7 @@ class Header extends Component {
          var name = this.props.data.name;
          var resume = this.props.data.resume;
          var github = this.props.data.github;
+         var LinkedIn = this.props.data.LinkedIn;
          var occupation = this.props.data.occupation;
          var description = this.props.data.description;
          var city = this.props.data.address.city;
@@ -41,7 +42,8 @@ class Header extends Component {
                   <ul className="social">
                     
                      
-                     <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
+                     <a href={github} className="button btn github-btn"><i className="fa fa-github"></i> Github</a>
+                     <a href={LinkedIn} className="button btn github-btn"> LinkedIn</a>
                   </ul>
                </div>
             </div>
