@@ -442,7 +442,7 @@ ul#nav li.current a { color: #F06000; }
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
-   background: #fff;
+   /* background: #fff; */
    overflow: hidden;
    position: relative;
 
@@ -524,6 +524,15 @@ ul#nav li.current a { color: #F06000; }
    opacity: 1;
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
+}
+
+.projects {
+   margin-left: 1rem !important;
+   background-color: transparent !important;
+}
+
+h5 {
+   color: rgb(189, 189, 189) !important;
 }
 
 /* popup modal */

@@ -17,6 +17,8 @@ class Portfolio extends Component {
               {projects.title}
             </h5>
             <p className="projects">{projects.category}</p>
+            <a className="projects" href={projects.url}>Live Demo</a>
+            <a className="projects" href={projects.github}>Visit the Github page here</a>
           </div>
         </div>
       })
