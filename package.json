@@ -1,25 +1,21 @@
 {
-  "name": "reactportfolio",
-  "version": "1.0.0",
-  "description": "Welcome to my portfolio!",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/joychen5069/ReactPortfolio.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/joychen5069/ReactPortfolio/issues"
-  },
-  "homepage": "https://github.com/joychen5069/ReactPortfolio#readme",
+  "name": "personalportfolio",
+  "version": "0.1.0",
+  "homepage": "./",
+  "private": true,
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "nodemailer": "^6.4.10"
+    "anix": "^0.3.3",
+    "jquery": "^3.2.1",
+    "particles-bg": "^2.3.12",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-ga": "^2.3.5",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   }
 }
