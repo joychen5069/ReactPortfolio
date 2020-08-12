@@ -100,18 +100,33 @@
     "projects": [
       {
         "title":"Date Night",
-        "category":"This project allows the user to choose a cuisine and alcohol type to find a food pairing. The website will give you a completed picture of what the meal and drink should look like, the ingredient list, and the instructions on how to make the meal. The Date Night application was developed using HTML5, CSS, Javascript, JQuery, Materialize.",
+        "category":"This project allows the user to choose a cuisine and alcohol type to find a food pairing. The website will give you a completed picture of what the meal and drink should look like, the ingredient list, and the instructions on how to make the meal.",
         "image":"DateNight.png",
         "url":"https://joychen5069.github.io/Date-Night/",
         "github":"https://github.com/joychen5069/Date-Night"
       },
+      
+      {
+        "title":"Workout Tracker",
+        "category":"This application will assist you in keeping track of your workouts! If you love cardio and/or resistance training, this is the application for you. It will assist you in tracking the weight, the reps, the sets, the duration, and the milage you put in.",
+        "image":"WorkoutTracker.png",
+        "url":"https://workout-tracker-by-joy.herokuapp.com/",
+        "github":"https://github.com/joychen5069/WorkoutTracker"
+      },    
       {
         "title":"Online Offline Budget Tracker",
         "category":"This application will assist you in keeping track of your expenses when you have internet and when you don't! The offline feature is extremely helpful for when users are in areas where the internet is sparse or super expensive and just not worth connecting to.",
         "image":"budget.png",
         "url":"https://online-offline-budget.herokuapp.com/",
         "github":"https://github.com/joychen5069/OnlineOfflineBudgetTracker"
-      },      
+      }, 
+      {
+        "title":"Note Taker",
+        "category":"Everyone takes notes. Whether they scrible it down on a piece of paper, or quickly type on their phone, or even open a notepad document on their computer. Here is how to store all of those notes in one place!",
+        "image":"NoteTaker.png",
+        "url":"https://joynotetaker.herokuapp.com/",
+        "github":"https://github.com/joychen5069/NoteTaker"
+      },     
       {
         "title":"Weather Application",
         "category":"I have created a weather application that gives you the information you need to step out the door and go on an adventure! he application will give you the current temperature, humidity, wind speed, and the UV index with a color code. It'll even give you an icon for what the majority of the day should be like!",
@@ -119,27 +134,15 @@
         "url":"https://joychen5069.github.io/WeatherForcast/",
         "github":"https://github.com/joychen5069/WeatherForcast"
       },
-      {
-        "title":"Workout Tracker",
-        "category":"This application will assist you in keeping track of your workouts! If you love cardio and/or resistance training, this is the application for you. It will assist you in tracking the weight, the reps, the sets, the duration, and the milage you put in.",
-        "image":"WorkoutTracker.png",
-        "url":"https://workout-tracker-by-joy.herokuapp.com/",
-        "github":"https://github.com/joychen5069/WorkoutTracker"
-      },      
+        
       {
         "title":"Password Generator",
         "category":"No one wants a super predictable and easy-to-guess password. Everyone has their own reasons to keep their belongings, thoughts, work, and etc. safe! Like all other passwords, this one has requirements. This application allows the user to choose parameters in which the program will create a password.",
         "image":"passwordGenerator.jpg",
         "url":"https://joychen5069.github.io/RandomPasswordGenerator/",
         "github":"https://github.com/joychen5069/RandomPasswordGenerator"
-      },
-      {
-        "title":"Note Taker",
-        "category":"Everyone takes notes. Whether they scrible it down on a piece of paper, or quickly type on their phone, or even open a notepad document on their computer. Here is how to store all of those notes in one place!",
-        "image":"NoteTaker.png",
-        "url":"https://joynotetaker.herokuapp.com/",
-        "github":"https://github.com/joychen5069/NoteTaker"
       }
+      
     ]
   }
 }
