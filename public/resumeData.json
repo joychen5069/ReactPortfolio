@@ -47,6 +47,15 @@
       }
     ],
     "work":[
+      
+      {
+        "company":"COVID-19 Tracker",
+        "title":"Full-Stack Developer",
+        "years":"July 2020 - Present",
+        "description":"This project requires the user to create an account in order to access the site. After the user creates an account, they are able to choose their location on the map and see how many current COVID cases their county has. This application also contains a symptom checker that will provide a triage level and assist in helping the user choose the next step if they possibly have COVID. This application is powered through React.JS, jquery, bootstrap, and APIS from Azure News, Infermedica, and NY Times.",
+        "url":"https://covid19-tracker-applicaiton.herokuapp.com/",
+        "github": "https://github.com/traviscult/project-3"
+      },
       {
         "company":"Book Club",
         "title":"Full-Stack Developer",
@@ -54,14 +63,6 @@
         "description":"This application allows you to find a book club to join depending on your reading interests. The project is powered by JavaScript, AJAX API calls, NodeJS, and SQL. Feel free to checkout the demo",
         "url":"https://book-club-application.herokuapp.com/",
         "github": "https://github.com/joychen5069/BookClub"
-      },
-      {
-        "company":"Date Night",
-        "title":"Full-Stack Developer",
-        "years":"March 2020 - April 2020",
-        "description":"This project allows the user to choose a cuisine and alcohol type to find a food pairing. The website will give you a completed picture of what the meal and drink should look like, the ingredient list, and the instructions on how to make the meal. The Date Night application was developed using HTML5, CSS, Javascript, JQuery, Materialize. ",
-        "url":"https://joychen5069.github.io/Date-Night/",
-        "github": "https://github.com/joychen5069/Date-Night"
       }
     ],
     "skills":[
@@ -98,11 +99,11 @@
   "portfolio":{
     "projects": [
       {
-        "title":"COVID Informational and Resource Application",
-        "category":"This application allows you to check your symptoms to determine your triage level during this pandemic. You can also see the current number of active cases and deaths per state and county.",
-        "image":"covid.png",
-        "url":"https://covid19-tracker-applicaiton.herokuapp.com/",
-        "github":"https://github.com/traviscult/project-3"
+        "title":"Date Night",
+        "category":"This project allows the user to choose a cuisine and alcohol type to find a food pairing. The website will give you a completed picture of what the meal and drink should look like, the ingredient list, and the instructions on how to make the meal. The Date Night application was developed using HTML5, CSS, Javascript, JQuery, Materialize.",
+        "image":"DateNight.png",
+        "url":"https://joychen5069.github.io/Date-Night/",
+        "github":"https://github.com/joychen5069/Date-Night"
       },
       {
         "title":"Online Offline Budget Tracker",
