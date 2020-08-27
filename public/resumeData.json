@@ -53,7 +53,7 @@
         "title":"Full-Stack Developer",
         "years":"July 2020 - Present",
         "description":"This project requires the user to create an account in order to access the site. After the user creates an account, they are able to choose their location on the map and see how many current COVID cases their county has. This application also contains a symptom checker that will provide a triage level and assist in helping the user choose the next step if they possibly have COVID. This application is powered through React.JS, jquery, bootstrap, and APIS from Azure News, Infermedica, and NY Times.",
-        "url":"https://covid19-tracker-applicaiton.herokuapp.com/",
+        "url":"https://covid-resource-app.herokuapp.com/",
         "github": "https://github.com/traviscult/project-3"
       },
       {
