@@ -57,7 +57,7 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form id="contactForm" name="contactForm">
+               <form id="contactForm" name="contactForm" method="POST" data-netlify="true">
 					<fieldset>
 
                   <div>
