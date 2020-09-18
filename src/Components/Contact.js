@@ -57,26 +57,26 @@ class Contact extends Component {
 
             <div className="row">
                <div>
-                  <form id="contactForm" onSubmit={this.handleSubmit}>
+                  <form onSubmit={this.handleSubmit}>
                   <fieldset>
-                     <div className="col-12"> 
+                     <div> 
                         <label for="contactName">
                            Your Name: <span className="required">*</span>
                         </label>
-                        <input size="35" id="contactName" type="text" name="name" value={ContactName} onChange={this.handleChange} />
+                        <input size="35" id="contactName" name="name" defaultValue={ContactName} onChange={this.handleChange} />
                      </div>
                      <div>
                         <label>
                            Your Email: 
                            <span className="required">*</span>
                         </label>
-                        <input type="email" size="35" id="contactEmail" name="email" value={ContactEmail} onChange={this.handleChange} />
+                        <input type="email" size="35" id="contactEmail" name="email" defaultValue={ContactEmail} onChange={this.handleChange} />
                      </div>
                      <div>
                         <label>
                            Message: <span className="required">*</span>
                         </label>
-                        <textarea name="message"  cols="50" rows="15" id="contactMessage"  value={ContactMessage} onChange={this.handleChange} />
+                        <textarea name="message"  cols="50" rows="15" id="contactMessage"  defaultValue={ContactMessage} onChange={this.handleChange} />
                      </div>
                      <div>
                         <button type="submit">Send</button>
