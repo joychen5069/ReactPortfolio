@@ -5,15 +5,15 @@ class Header extends Component {
 
       if (this.props.data) {
          var name = this.props.data.name;
-         var resume = this.props.data.resume;
+         // var resume = this.props.data.resume;
          var github = this.props.data.github;
          var LinkedIn = this.props.data.LinkedIn;
          var occupation = this.props.data.occupation;
          var description = this.props.data.description;
-         var city = this.props.data.address.city;
-         var networks = this.props.data.social.map(function (network) {
-            return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-         })
+         // var city = this.props.data.address.city;
+         // var networks = this.props.data.social.map(function (network) {
+         //    return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+         // })
       }
 
       return (
