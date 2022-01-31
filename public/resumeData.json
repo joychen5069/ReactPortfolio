@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Joy Chen",
-    "description":"software developer. I graduated from UNC's Full Stack Coding Bootcamp in August 2020. I use ReactJS and JavaScript to develop applications. This website serves as a testimony to my skills",
+    "description":"software developer currently working at IBM. I graduated from UNC's Full Stack Coding Bootcamp in August 2020. I use ReactJS and JavaScript to develop applications. This website serves as a testimony to my skills",
     "image":"profile.png",
     "bio":"As a personable and tech-savvy web developer with a background in customer and public service, I am driven towards technological advances. I have a Full-Stack certification from the University of North Carolina-Chapel HIll. During the intense six month boot camp, I gained skills in JavaScript, jQuery, SQL, Mongoose, CSS, HTML, Node.js, Express, ReactJS and much more. I am constantly striving to advance my education and technological knowledge as well as continuously problem solve. I am looking to bring my attention to detail, hunger for knowledge, and technical skills to a company to grow and become a valuable asset.",
     "contactmessage":"If you're interested in working with me, send me a message down below and I'll get back to you as soon as possible. I look forward to hearing from you!",
@@ -32,6 +32,14 @@
   },
   "resume":{
     "skillmessage":"Just a quick screenshot of my abilities!",
+    "work":[
+      {
+        "company":"IBM",
+        "title":"Front-End Developer",
+        "years":"January 2021 - Present",
+        "description":"A current IBM Z Log Data and Analytics front-end developer working with Elastic Stack, Splunk, and Kibana, to deliver client friendly dashboards on a SAFe agile team. "
+      },
+    ],
     "education":[
       {
         "school":"University of North Carolina-Chapel Hill",
@@ -46,12 +54,12 @@
         "description":"A four year degree in the studies of national and international security and relations with a strong focus in modern warfare."
       }
     ],
-    "work":[
+    "project":[
       
       {
         "company":"COVID-19 Tracker",
         "title":"Full-Stack Developer",
-        "years":"July 2020 - Present",
+        "years":"July 2020 - October 2020",
         "description":"This project requires the user to create an account in order to access the site. After the user creates an account, they are able to choose their location on the map and see how many current COVID cases their county has. This application also contains a symptom checker that will provide a triage level and assist in helping the user choose the next step if they possibly have COVID. This application is powered through React.JS, jquery, bootstrap, and APIS from Azure News, Infermedica, and NY Times.",
         "url":"https://covid-resource-app.herokuapp.com/",
         "github": "https://github.com/joychen5069/COVID-App"
