@@ -3,7 +3,7 @@
     "name":"Joy Chen",
     "description":"software developer currently working at IBM. I graduated from UNC's Full Stack Coding Bootcamp in August 2020. I use ReactJS and JavaScript to develop applications. This website serves as a testimony to my skills",
     "image":"profile.png",
-    "bio":"As a personable and tech-savvy web developer with a background in customer and public service, I am driven towards technological advances. I have a Full-Stack certification from the University of North Carolina-Chapel HIll. During the intense six month boot camp, I gained skills in JavaScript, jQuery, SQL, Mongoose, CSS, HTML, Node.js, Express, ReactJS and much more. I am constantly striving to advance my education and technological knowledge as well as continuously problem solve. I am looking to bring my attention to detail, hunger for knowledge, and technical skills to a company to grow and become a valuable asset.",
+    "bio":"As a front-end developer at IBM with a background in customer and public service, I am driven towards technological advances. I have a Full-Stack certification from the University of North Carolina-Chapel HIll. During the intense six month boot camp, I gained skills in JavaScript, jQuery, SQL, Mongoose, CSS, HTML, Node.js, Express, ReactJS and much more. I am constantly striving to advance my education and technological knowledge as well as continuously problem solve. I am looking to bring my attention to detail, hunger for knowledge, and technical skills to a company to grow and become a valuable asset.",
     "contactmessage":"If you're interested in working with me, send me a message down below and I'll get back to you as soon as possible. I look forward to hearing from you!",
     "email": "joychen5069@gmail.com",
     "phone": "919-448-4416",
@@ -16,7 +16,7 @@
       "zip": "27513"
     },
     "website": "https://joy-chen-portfolio.herokuapp.com/",
-    "resumedownload":"JoyChenResume.pdf",
+    "resumeDownload":"JoyChenResume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -75,12 +75,16 @@
     ],
     "skills":[
       {
+         "name":"ReactJs",
+         "link":"fas fa-sitemap"
+       },
+      {
         "name":"JavaScript/jQuery",
         "link":"fas fa-code"
       },
-     {
-        "name":"ReactJs",
-        "link":"fas fa-sitemap"
+      {
+        "name":"ELK Stack",
+        "link":"fas fa-database"
       },
       {
         "name":"HTML/CSS",
@@ -89,10 +93,6 @@
       {
         "name":"NodeJS",
         "link":"fas fa-code-branch"
-      },
-      {
-        "name":"Mongo/SQL",
-        "link":"fas fa-database"
       },
       {
         "name":"Public Safety",
